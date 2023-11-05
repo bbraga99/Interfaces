@@ -1,0 +1,14 @@
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.exe
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.deps.json
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.runtimeconfig.json
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.dll
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.pdb
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfoInputs.cache
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfo.cs
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.csproj.CoreCompileInputs.cache
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.dll
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\refint\Exercicio1.dll
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.pdb
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.genruntimeconfig.cache
+D:\C# POO\Aulas POO\Interface\Exercicio1\Exercicio1\obj\Debug\net6.0\ref\Exercicio1.dll
